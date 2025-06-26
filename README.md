@@ -1,5 +1,5 @@
 # Frog PCB
-A PCB consisting of 4 LEDs whcih are controlled by an LDR, potentiometer and switch
+A keychain PCB consisting of 4 LEDs whcih are controlled by an LDR, potentiometer and switch  
 Schematic:  
 ![Schematic](image.png)
 PCB:  
